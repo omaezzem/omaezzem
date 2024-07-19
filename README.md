@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omaezzem
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning dev
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
