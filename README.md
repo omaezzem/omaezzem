@@ -27,5 +27,5 @@
 
 
 
-[![omaezzem's 42 stats](https://badge.mediaplus.ma/darkblue/omaezzem)](https://github.com/oakoudad/badge42)
+[![omaezzem's 42 stats](https://badge.mediaplus.ma/levi/omaezzem)](https://github.com/oakoudad/badge42)
 ###
