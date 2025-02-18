@@ -31,5 +31,4 @@
 
 
 
-[![omaezzem's 42 stats](https://badge.mediaplus.ma/kettlebells/omaezzem)](https://github.com/oakoudad/badge42)
 ###
