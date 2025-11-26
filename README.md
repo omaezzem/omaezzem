@@ -29,7 +29,7 @@
 
 ## 📜 Certifications
 
-- <a href="https://learn.365datascience.com/c/2beb6d5d65/" target="_blank">Git & GitHub – 365 Data Science Certificate</a>
+- <a href="[https://learn.365datascience.com/c/2beb6d5d65/](https://365datascience.com/resources/certificates/CC-E68D7DCACA.jpg)" target="_blank">Git & GitHub – 365 Data Science Certificate</a>
 
 ###
 
