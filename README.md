@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to Omar's Code Universe
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVudTJ0M3B0NWEycmJhbzI3cjJmNzNrNTNidWswM2Izd2sxdDVoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" alt="coding animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVudTJ0M3B0NWEycmJhbzI3cjJmNzNrNTNidWswM2Izd2sxdDVoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="coding animation"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=1337+Student+%7C+42+Network+%F0%9F%87%B2%F0%9F%87%A6;Systems+Programming+Enthusiast;C%2FC%2B%2B+Developer;Open+Source+Contributor;Building+Tomorrow's+Solutions)](https://git.io/typing-svg)
 
@@ -95,29 +95,6 @@ I'm a passionate software developer specializing in **systems programming** and 
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omaezzem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omaezzem&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaezzem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omaezzem&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaezzem&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
