@@ -162,6 +162,4 @@ I'm a passionate software developer specializing in **systems programming** and 
 
 *Last Updated: November 2025*
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge)](https://github.com/omaezzem)
-
 </div>
