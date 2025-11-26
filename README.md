@@ -27,11 +27,12 @@
 
 <br>
 
-## 📜 Certifications
+## 📜 Certifications & Courses
 
-- <a href="[https://learn.365datascience.com/c/2beb6d5d65/](https://365datascience.com/resources/certificates/CC-E68D7DCACA.jpg)" target="_blank">Git & GitHub – 365 Data Science Certificate</a>
+- <a href="https://learn.365datascience.com/c/2beb6d5d65/" target="_blank">Git & GitHub – 365 Data Science Certificate</a>  
+- <a href="https://learn.365datascience.com/c/520c2a3413/" target="_blank">Scientific Computing with Python – 365 Data Science Certificate</a>  
+- <a href="https://www.freecodecamp.org/certification/om4rez/scientific-computing-with-python-v7" target="_blank">Scientific Computing with Python – freeCodeCamp Certificate</a>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
