@@ -30,7 +30,7 @@
 ## 📜 Certifications & Courses
 
 - <a href="https://learn.365datascience.com/c/2beb6d5d65/" target="_blank">Git & GitHub – 365 Data Science Certificate</a>  
-- <a href="https://learn.365datascience.com/c/520c2a3413/" target="_blank">Scientific Computing with Python – 365 Data Science Certificate</a>  
+- <a href="https://learn.365datascience.com/c/520c2a3413/" target="_blank">Intro to shell – 365 Data Science Certificate</a>  
 - <a href="https://www.freecodecamp.org/certification/om4rez/scientific-computing-with-python-v7" target="_blank">Scientific Computing with Python – freeCodeCamp Certificate</a>
 
 
