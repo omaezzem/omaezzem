@@ -121,22 +121,6 @@ t_developer me = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=om4rez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=om4rez&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om4rez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om4rez&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -232,5 +216,3 @@ while (alive):
 **⚡ Built with 💙 by Omar**
 
 *Last Updated: November 2025*
-
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge)](https://github.com/o
