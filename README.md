@@ -61,7 +61,7 @@ I'm a passionate software developer specializing in **systems programming** and 
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
 <br><br>
-[<img src="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" width="150" alt="Python Certificate"/>]
+<img src="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" width="150" alt="Python Certificate"/>
 <h3>Scientific Computing<br>with Python</h3>
 <p>Completed comprehensive training in Python programming, algorithms, and computational problem-solving</p>
 <a href="https://www.freecodecamp.org/certification/om4rez/scientific-computing-with-python-v7" target="_blank">
