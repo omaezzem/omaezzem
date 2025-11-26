@@ -6,38 +6,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=1337+Student+%7C+42+Network+%F0%9F%87%B2%F0%9F%87%A6;Systems+Programming+Enthusiast;C%2FC%2B%2B+Developer;Open+Source+Contributor;Building+Tomorrow's+Solutions)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=om4rez&color=00d9ff&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=omaezzem&color=00d9ff&style=for-the-badge&label=VISITORS)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ## 💫 About Me
 
-```c
-typedef struct s_developer
-{
-    char    *name;
-    char    *location;
-    char    *school;
-    char    *current_focus;
-    char    *languages[6];
-    int     coffee_cups_per_day;
-}   t_developer;
+**🎓 Student at 1337 (42 Network) - Khouribga, Morocco 🇲🇦**
 
-t_developer me = {
-    .name = "Omar",
-    .location = "Khouribga, Morocco 🇲🇦",
-    .school = "1337 (42 Network)",
-    .current_focus = "Systems Programming & Algorithms",
-    .languages = {"C", "C++", "Python", "Bash", "HTML", "CSS"},
-    .coffee_cups_per_day = 42
-};
-```
+I'm a passionate software developer specializing in **systems programming** and **algorithm design**. My journey in coding is driven by curiosity and a desire to build efficient, elegant solutions to complex problems.
 
-### 🎯 Current Mission
+### 🎯 Current Focus
 - 🔭 Building robust systems with **C/C++**
 - 🌱 Mastering **Data Structures & Algorithms**
 - 👯 Looking to collaborate on **Open Source Projects**
@@ -66,11 +47,6 @@ t_developer me = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-
-### 🎨 Design & Frontend
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -121,25 +97,32 @@ t_developer me = {
 
 ---
 
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=om4rez&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="98%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omaezzem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omaezzem&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaezzem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omaezzem&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaezzem&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 </div>
 
 ---
 
-**🐱 My GitHub Data** 
+## 🏆 GitHub Trophies
 
-> 📦 Used in GitHub's Storage 
-> 
-> 🏆 Contributions in 2025
-> 
-> 📜 Public Repositories 
-> 
-> 🔑 Private Repositories 
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omaezzem&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="98%"/>
 </div>
 
 ---
@@ -164,10 +147,9 @@ t_developer me = {
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om4rez)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omaezzem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
@@ -183,27 +165,13 @@ t_developer me = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/om4rez/om4rez/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💡 "Talk is cheap. Show me the code." – Linus Torvalds
 
-### 🎯 Fun Fact
+### 🎯 My Coding Philosophy
 
-```python
-while (alive):
-    eat()
-    sleep()
-    code()
-    repeat()
-```
+*"Write code that humans can understand, not just machines can execute."*
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
@@ -216,3 +184,7 @@ while (alive):
 **⚡ Built with 💙 by Omar**
 
 *Last Updated: November 2025*
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge)](https://github.com/omaezzem)
+
+</div>
